@@ -34,3 +34,16 @@ Applied basic aggregations and sorting
 Outcome
 
 The dashboard provides an easy-to-understand visual summary of sales trends and performance, enabling quick insights without complex calculations.
+
+
+The link for both the projects :
+https://app.powerbi.com/view?r=eyJrIjoiOTkxNmNhOWMtZTVkOS00MjZlLThhODctY2U4NjNjMjY4MTViIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9
+
+
+second one :
+https://app.powerbi.com/view?r=eyJrIjoiM2IxNTg5MDQtMmQ5Ni00ZDg1LWIzODYtMjU1ZmNjZDNmZWUxIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9
+
+
+
+
+
